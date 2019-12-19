@@ -8,6 +8,12 @@ An implementation of the BLoC (Business Logic Component) pattern for Android app
 
 **States** are the output of a BLoC. Presentation components can listen to the stream of states and redraw portions of themselves based on the given state.
 
+## Installation
+
+```groovy
+implementation 'com.github.netsells:android-bloc:x.x.x'
+```
+
 ## Implementing a BLoC
 
 Consider a simple app which, when a button is pressed, loads a String from a data source and displays it.
