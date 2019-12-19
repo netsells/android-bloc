@@ -1,5 +1,8 @@
 # Android BLoC
 
+[![Build Status](https://app.bitrise.io/app/0c552fce07215a12/status.svg?token=y4RhFBvFMv0opXwwLk8qDg&branch=master)](https://app.bitrise.io/app/0c552fce07215a12)
+![JitPack](https://img.shields.io/jitpack/v/github/netsells/android-bloc)
+
 An implementation of the BLoC (Business Logic Component) pattern for Android apps. Inspired by the [BLoC Library for Flutter](https://bloclibrary.dev/).
 
 ## Background
