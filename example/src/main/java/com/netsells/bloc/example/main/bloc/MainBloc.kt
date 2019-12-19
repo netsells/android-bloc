@@ -1,8 +1,9 @@
+/* Copyright © 2019 Netsells */
 package com.netsells.bloc.example.main.bloc
 
 import com.netsells.bloc.BlocViewModel
-import kotlinx.coroutines.delay
 import kotlin.random.Random
+import kotlinx.coroutines.delay
 
 class MainBloc : BlocViewModel<MainState, MainEvent>(initialState = InitialMainState) {
 

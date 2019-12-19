@@ -1,3 +1,4 @@
+/* Copyright © 2019 Netsells */
 package com.netsells.bloc
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule

@@ -1,3 +1,4 @@
+/* Copyright © 2019 Netsells */
 package com.netsells.bloc.example.main
 
 import android.os.Bundle
